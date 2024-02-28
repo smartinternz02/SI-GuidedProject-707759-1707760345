@@ -1,6 +1,6 @@
 ![Cura](https://github.com/smartinternz02/SI-GuidedProject-707759-1707760345/assets/159822340/bd82e7da-a345-4e3a-9358-01c274a927d4)
 # CURA Healthcare Service
-## Category: Software Test Automation
+## Category: Software Test Automation By Katalon Studio
 ### Skills Required: Automation Testing
 #### Project Description:
 Earlier days there is no prior option to take appointments from doctor to consult. Patients need to wait for a long time and even if you reach the hospital also sometimes doctors won't be available. So in order to overcome these issues CURA Healthcare Service provides a prior appointment feature to overcome the starvation and other issues. Worldwide, Cura health care service helps to track and check the availability of doctors (for cardiac or heart diseases are listed as the top health conditions and fetching many individuals regardless of their gender).
