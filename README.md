@@ -7,9 +7,9 @@ Earlier days there is no prior option to take appointments from doctor to consul
 #### The Application Under Test (AUT) :  CURA Healthcare Service
 #### website : [Click Here](https://katalon-demo-cura.herokuapp.com/)
 ### Project flow:
-•	User interact with the UI to enter into system
-•	Entered Login inputs are analyzed and verified as per the base line document
-•	Once the Login credentials are validated, patient can enable to take appointment after satisfying the requirements mentioned.
+*	User interact with the UI to enter into system
+*	Entered Login inputs are analyzed and verified as per the base line document
+*	Once the Login credentials are validated, patient can enable to take appointment after satisfying the requirements mentioned.
 #### To accomplish this, we have to complete all the activities listed below:
 1.	Define problem/ Problem understanding
 i.	Specify the business problem
